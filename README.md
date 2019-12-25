@@ -3,14 +3,9 @@ Code repo and interview bytes
 
 
 ### Prerequisites
+1. Eclipse and JDK installed
+2. For Javascript files browser is enough
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -26,4 +21,6 @@ V1
 Sunil 
 
 ## More are coming
+1. JS Questions
+2. HTML5 Questions
 
