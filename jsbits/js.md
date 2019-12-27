@@ -1,4 +1,4 @@
-# JSBits
+# JBits
 
 ```class A{ p s v test(){sout("A");} }
 class B extends A{ p s v test(){sout("B");} }
@@ -16,11 +16,11 @@ class C{
 * How can you find total number of instances created for a class?  
 * Array Duplicate Logic 
 * what is set operator in JavaScript
-⋅⋅* JavaScript has includes prototype
- ⋅⋅*what is transpiling, filter , reduce operator etc 
- ⋅⋅*UI
-⋅⋅*WireFrames
-⋅⋅*Routers  
-⋅⋅*rxjs
+* JavaScript has includes prototype
+* what is transpiling, filter , reduce operator etc 
+* UI
+* WireFrames
+* Routers  
+* rxjs
 
 
