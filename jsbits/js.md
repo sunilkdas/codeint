@@ -10,12 +10,12 @@ class C{
 }
 ```
 
-*what is the o/p?
-*what this example refers to?
-*what happens when you try to override a static method from parent class?  
-*How can you find total number of instances created for a class?  
-⋅⋅*Array Duplicate Logic 
-⋅⋅*what is set operator in JavaScript
+* what is the o/p?
+* what this example refers to?
+* what happens when you try to override a static method from parent class?  
+* How can you find total number of instances created for a class?  
+* Array Duplicate Logic 
+* what is set operator in JavaScript
 ⋅⋅* JavaScript has includes prototype
  ⋅⋅*what is transpiling, filter , reduce operator etc 
  ⋅⋅*UI
