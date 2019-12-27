@@ -7,7 +7,8 @@ class C{
   main(){
       A a2 = new B();
 }
-}```
+}
+```
 
 *what is the o/p?
 *what this example refers to?
