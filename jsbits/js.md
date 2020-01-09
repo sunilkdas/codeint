@@ -43,4 +43,22 @@ class C{
 
 * rxjs
 
+# Unique Element in Mixed Array
+
+[jsfiddle link](https://jsfiddle.net/ruffthawts/03pdwvm2/1/)
+
+
+```var arr=[1,2,"s","s",[1,3],2,[1,3]];
+var arr1=[];
+var arr2=[];
+for(let i of arr){
+if(arr1.indexOf(JSON.stringify(i))==-1)
+	arr1.push(JSON.stringify(i));
+}
+for(let i of arr1){
+if(arr2.indexOf(JSON.parse(i))==-1)
+	arr2.push(JSON.parse(i));
+}
+console.log(arr2);```
+
 
