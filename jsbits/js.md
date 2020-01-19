@@ -61,7 +61,21 @@ if(arr2.indexOf(JSON.parse(i))==-1)
 }
 console.log(arr2);```
 
-### 19012020
+# 16112019
+* How to remove duplicates from an array?
+* What is flex box?
+* How to design a 3 div of same height if content are getting dynamic?
+* What are new things in html5
+* How to design password icon functionality?
+* How to change order of 3 grid in 1,3,2?
+* What is reduce ?
+* What is the difference between for in for each
+* Ecma6 filters
+* How to return an array using reduce method?
+
+
+
+# 19012020
 * Sharing information in independent modules.
 * What is the difference between display none and visibility true?
 * Practical application of closure?
