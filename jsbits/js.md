@@ -61,4 +61,13 @@ if(arr2.indexOf(JSON.parse(i))==-1)
 }
 console.log(arr2);```
 
+### 19012020
+* Sharing information in independent modules.
+* What is the difference between display none and visibility true?
+* Practical application of closure?
+* Function arguments is pass by value or pass by reference?
+* XMLhttprequest vs AJAX?
+* Shadow DOM vs Virtual DOM?
+
+
 
