@@ -43,25 +43,9 @@ class C{
 
 * rxjs
 
-# Unique Element in Mixed Array
-
-[jsfiddle link](https://jsfiddle.net/ruffthawts/03pdwvm2/1/)
-
-
-```var arr=[1,2,"s","s",[1,3],2,[1,3]];
-var arr1=[];
-var arr2=[];
-for(let i of arr){
-if(arr1.indexOf(JSON.stringify(i))==-1)
-	arr1.push(JSON.stringify(i));
-}
-for(let i of arr1){
-if(arr2.indexOf(JSON.parse(i))==-1)
-	arr2.push(JSON.parse(i));
-}
-console.log(arr2);```
 
 # 16112019
+
 * How to remove duplicates from an array?
 * What is flex box?
 * How to design a 3 div of same height if content are getting dynamic?
@@ -82,6 +66,29 @@ console.log(arr2);```
 * Function arguments is pass by value or pass by reference?
 * XMLhttprequest vs AJAX?
 * Shadow DOM vs Virtual DOM?
+
+
+
+
+
+
+# Unique Element in Mixed Array
+
+[jsfiddle link](https://jsfiddle.net/ruffthawts/03pdwvm2/1/)
+
+
+```var arr=[1,2,"s","s",[1,3],2,[1,3]];
+var arr1=[];
+var arr2=[];
+for(let i of arr){
+if(arr1.indexOf(JSON.stringify(i))==-1)
+	arr1.push(JSON.stringify(i));
+}
+for(let i of arr1){
+if(arr2.indexOf(JSON.parse(i))==-1)
+	arr2.push(JSON.parse(i));
+}
+console.log(arr2);```
 
 
 
